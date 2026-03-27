@@ -1,4 +1,4 @@
-name: Download Latest Fuel PDF
+name: Download and Merge Fuel Data
 
 on:
   schedule:
@@ -6,37 +6,43 @@ on:
   workflow_dispatch:       # manual trigger
 
 jobs:
-  download_and_merge:
+  download-and-merge:
     runs-on: ubuntu-latest
+
     steps:
-      
+      # 1️⃣ Checkout the repository so we have all files (including the XLSX)
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false   # Important!
+          persist-credentials: false  # Important to use personal access token later
 
+      # 2️⃣ Set up Python 3.12
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
-      
+
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pdfplumber pandas openpyxl
-      
+
+      # 4️⃣ Run downloader script to fetch latest PDFs
       - name: Run downloader script
         run: python code_for_download.py
 
-      - name: Merge PDF data into XLSX
+      # 5️⃣ Run merge script to update the master XLSX
+      - name: Merge latest PDF data into XLSX
         run: python merge_to_file.py
 
-      - name: Commit and push updated XLSX
+      # 6️⃣ Commit any changes (PDFs and updated XLSX) back to GitHub
+      - name: Commit and push changes
         env:
           GH_PAT: ${{ secrets.FUEL_PAT }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add "prices_of_petrol.xlsx"
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update petrol prices XLSX"
+          git add pdf_files/ prices_of_petrol.xlsx
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update fuel PDFs and XLSX"
           git push https://$GH_PAT@github.com/Nik2014/fuel_prices.git main
