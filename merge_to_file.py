@@ -121,7 +121,7 @@ else:
 # Ensure correct column order
 master_df = master_df[["date", "diesel_driving", "unleaded_100", "unleaded_95", "autogas"]]
 
-# Save back to XLSX
-master_df.to_excel(master_xlsx, index=False, engine="openpyxl")
+master_csv = "prices_of_petrol.csv"
+master_df.to_csv(master_csv, index=False)
 
-print(f"Updated {master_xlsx} with latest data.")
+print(f"Updated {master_csv} with latest data.")
