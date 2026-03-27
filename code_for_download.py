@@ -5,16 +5,12 @@ from datetime import datetime
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
-# -----------------------------
-# Constants
-# -----------------------------
+#URL and folder destination
 PAGE_URL = "https://www.fuelprices.gr/deltia_d.view"
 BASE_URL = "https://www.fuelprices.gr/"
 DOWNLOAD_FOLDER = "pdf_files"
 
-# -----------------------------
 # Extract date from PDF filename
-# -----------------------------
 def extract_date(url: str):
     """Extract datetime object from filenames like 25_03_2026"""
     match = re.search(r'(\d{2})_(\d{2})_(\d{4})', url)
@@ -23,9 +19,7 @@ def extract_date(url: str):
         return datetime(int(year), int(month), int(day))
     return None
 
-# -----------------------------
 # Get latest PDF URL
-# -----------------------------
 def get_latest_pdf():
     response = requests.get(PAGE_URL)
     response.raise_for_status()
@@ -54,9 +48,7 @@ def get_latest_pdf():
 
     return dated_links[0][0]
 
-# -----------------------------
 # Download PDF
-# -----------------------------
 def download_file(url: str):
     # Create folder if it doesn't exist
     os.makedirs(DOWNLOAD_FOLDER, exist_ok=True)
@@ -78,9 +70,7 @@ def download_file(url: str):
 
     print(f"Downloaded: {filepath}")
 
-# -----------------------------
 # Main
-# -----------------------------
 if __name__ == "__main__":
     latest_pdf = get_latest_pdf()
     print("Latest PDF URL:", latest_pdf)
