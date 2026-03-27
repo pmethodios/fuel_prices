@@ -97,7 +97,7 @@ if __name__ == "__main__":
 # ----------------
 
 # Paths
-master_xlsx = "/workspaces/fuel_prices/prices_of_petrol.xlsx"
+master_xlsx = "prices_of_petrol.xlsx"
 
 # Read master XLSX
 master_df = pd.read_excel(master_xlsx)
