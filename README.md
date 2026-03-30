@@ -1,2 +1,2 @@
-# fuel_prices
-A scraper of the fuel prices observatory of the greek ministry of investment. 
+# Greek Fuel Prices Observatory Tracker
+A data pipeline that utilizes python and github actions to automatically downloads the prices of fuel that are uploaded on the website of the Greek ministry of Development. It downloads the pdf files, scrapes the table and updates the master_csv that contains the entire dataset from 2017. 
