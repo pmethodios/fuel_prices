@@ -1,0 +1,1022 @@
+[
+  {
+    "chart_id": "0l0E8",
+    "prefecture": "ΝΟΜΟΣ ΜΕΣΣΗΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "BpOno",
+    "prefecture": "ΝΟΜΟΣ ΜΕΣΣΗΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "NNhHG",
+    "prefecture": "ΝΟΜΟΣ ΜΕΣΣΗΝΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "Sz2Ro",
+    "prefecture": "ΝΟΜΟΣ ΜΕΣΣΗΝΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "EYskX",
+    "prefecture": "ΝΟΜΟΣ ΜΑΓΝΗΣΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "9UyAH",
+    "prefecture": "ΝΟΜΟΣ ΜΑΓΝΗΣΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "P43pZ",
+    "prefecture": "ΝΟΜΟΣ ΜΑΓΝΗΣΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "FtMa0",
+    "prefecture": "ΝΟΜΟΣ ΜΑΓΝΗΣΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "cmsHF",
+    "prefecture": "ΝΟΜΟΣ ΛΕΥΚΑΔΟΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "66ZNm",
+    "prefecture": "ΝΟΜΟΣ ΛΕΥΚΑΔΟΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "16onb",
+    "prefecture": "ΝΟΜΟΣ ΛΕΥΚΑΔΟΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "fedd5",
+    "prefecture": "ΝΟΜΟΣ ΛΕΥΚΑΔΟΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "X7yab",
+    "prefecture": "ΝΟΜΟΣ ΛΕΣΒΟΥ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "hU09N",
+    "prefecture": "ΝΟΜΟΣ ΛΕΣΒΟΥ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "8d5G1",
+    "prefecture": "ΝΟΜΟΣ ΛΕΣΒΟΥ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "qjL7d",
+    "prefecture": "ΝΟΜΟΣ ΛΕΣΒΟΥ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "pGRXI",
+    "prefecture": "ΝΟΜΟΣ ΚΟΡΙΝΘΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "CilCO",
+    "prefecture": "ΝΟΜΟΣ ΚΟΡΙΝΘΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "ZdS6T",
+    "prefecture": "ΝΟΜΟΣ ΚΟΡΙΝΘΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "oBJ2u",
+    "prefecture": "ΝΟΜΟΣ ΚΟΡΙΝΘΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "lp7pK",
+    "prefecture": "ΝΟΜΟΣ ΛΑΡΙΣΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "oblQH",
+    "prefecture": "ΝΟΜΟΣ ΛΑΡΙΣΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "IMG4Y",
+    "prefecture": "ΝΟΜΟΣ ΛΑΡΙΣΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "q0Ttb",
+    "prefecture": "ΝΟΜΟΣ ΛΑΡΙΣΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "dzoeY",
+    "prefecture": "ΝΟΜΟΣ ΛΑΚΩΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "TdD7l",
+    "prefecture": "ΝΟΜΟΣ ΛΑΚΩΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "ei2eo",
+    "prefecture": "ΝΟΜΟΣ ΛΑΚΩΝΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "Aasne",
+    "prefecture": "ΝΟΜΟΣ ΛΑΚΩΝΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "MNGSb",
+    "prefecture": "ΝΟΜΟΣ ΚΥΚΛΑΔΩΝ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "GODhP",
+    "prefecture": "ΝΟΜΟΣ ΚΥΚΛΑΔΩΝ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "frNFj",
+    "prefecture": "ΝΟΜΟΣ ΚΥΚΛΑΔΩΝ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "pZRg5",
+    "prefecture": "ΝΟΜΟΣ ΚΥΚΛΑΔΩΝ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "jz0Sj",
+    "prefecture": "ΝΟΜΟΣ ΞΑΝΘΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "zNDpk",
+    "prefecture": "ΝΟΜΟΣ ΞΑΝΘΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "AO63H",
+    "prefecture": "ΝΟΜΟΣ ΞΑΝΘΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "CJfi4",
+    "prefecture": "ΝΟΜΟΣ ΞΑΝΘΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "CAm6n",
+    "prefecture": "ΝΟΜΟΣ ΛΑΣΙΘΙΟΥ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "mtjxx",
+    "prefecture": "ΝΟΜΟΣ ΛΑΣΙΘΙΟΥ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "WG4Ki",
+    "prefecture": "ΝΟΜΟΣ ΛΑΣΙΘΙΟΥ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "jhhP8",
+    "prefecture": "ΝΟΜΟΣ ΛΑΣΙΘΙΟΥ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "oNOR3",
+    "prefecture": "ΝΟΜΟΣ ΠΕΛΛΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "OAJl5",
+    "prefecture": "ΝΟΜΟΣ ΠΕΛΛΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "R2wpF",
+    "prefecture": "ΝΟΜΟΣ ΠΕΛΛΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "xM2HL",
+    "prefecture": "ΝΟΜΟΣ ΠΕΛΛΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "d98Ud",
+    "prefecture": "ΝΟΜΟΣ ΣΕΡΡΩΝ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "Fwt1X",
+    "prefecture": "ΝΟΜΟΣ ΣΕΡΡΩΝ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "9VcdM",
+    "prefecture": "ΝΟΜΟΣ ΣΕΡΡΩΝ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "yF1bl",
+    "prefecture": "ΝΟΜΟΣ ΣΕΡΡΩΝ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "5OHYZ",
+    "prefecture": "ΝΟΜΟΣ ΠΡΕΒΕΖΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "aWAJ6",
+    "prefecture": "ΝΟΜΟΣ ΠΡΕΒΕΖΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "UELmj",
+    "prefecture": "ΝΟΜΟΣ ΠΡΕΒΕΖΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "yyks0",
+    "prefecture": "ΝΟΜΟΣ ΠΡΕΒΕΖΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "PzXFN",
+    "prefecture": "ΝΟΜΟΣ ΡΕΘΥΜΝΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "pWzho",
+    "prefecture": "ΝΟΜΟΣ ΡΕΘΥΜΝΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "s5v6U",
+    "prefecture": "ΝΟΜΟΣ ΡΕΘΥΜΝΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "7daMR",
+    "prefecture": "ΝΟΜΟΣ ΡΕΘΥΜΝΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "24Jbx",
+    "prefecture": "ΝΟΜΟΣ ΡΟΔΟΠΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "nim02",
+    "prefecture": "ΝΟΜΟΣ ΡΟΔΟΠΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "mANvw",
+    "prefecture": "ΝΟΜΟΣ ΡΟΔΟΠΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "lBEm9",
+    "prefecture": "ΝΟΜΟΣ ΡΟΔΟΠΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "VMGUm",
+    "prefecture": "ΝΟΜΟΣ ΣΑΜΟΥ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "k37aL",
+    "prefecture": "ΝΟΜΟΣ ΣΑΜΟΥ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "1iHN7",
+    "prefecture": "ΝΟΜΟΣ ΣΑΜΟΥ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "j0SLE",
+    "prefecture": "ΝΟΜΟΣ ΣΑΜΟΥ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "mNotA",
+    "prefecture": "ΝΟΜΟΣ ΤΡΙΚΑΛΩΝ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "arVjD",
+    "prefecture": "ΝΟΜΟΣ ΤΡΙΚΑΛΩΝ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "yjRV5",
+    "prefecture": "ΝΟΜΟΣ ΤΡΙΚΑΛΩΝ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "0u8RO",
+    "prefecture": "ΝΟΜΟΣ ΤΡΙΚΑΛΩΝ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "HMbm6",
+    "prefecture": "ΝΟΜΟΣ ΦΘΙΩΤΙΔΟΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "Zrb8Y",
+    "prefecture": "ΝΟΜΟΣ ΦΘΙΩΤΙΔΟΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "CVDjj",
+    "prefecture": "ΝΟΜΟΣ ΦΘΙΩΤΙΔΟΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "uuAS4",
+    "prefecture": "ΝΟΜΟΣ ΦΘΙΩΤΙΔΟΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "YfOYf",
+    "prefecture": "ΝΟΜΟΣ ΦΛΩΡΙΝΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "Awa8l",
+    "prefecture": "ΝΟΜΟΣ ΦΛΩΡΙΝΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "YiI1p",
+    "prefecture": "ΝΟΜΟΣ ΦΛΩΡΙΝΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "uiexA",
+    "prefecture": "ΝΟΜΟΣ ΦΛΩΡΙΝΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "GTajJ",
+    "prefecture": "ΝΟΜΟΣ ΦΩΚΙΔΟΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "WCYmT",
+    "prefecture": "ΝΟΜΟΣ ΦΩΚΙΔΟΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "d0rUV",
+    "prefecture": "ΝΟΜΟΣ ΦΩΚΙΔΟΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "rbQ6m",
+    "prefecture": "ΝΟΜΟΣ ΦΩΚΙΔΟΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "bHhxc",
+    "prefecture": "ΝΟΜΟΣ ΧΑΛΚΙΔΙΚΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "1PpXq",
+    "prefecture": "ΝΟΜΟΣ ΧΑΛΚΙΔΙΚΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "IMjDz",
+    "prefecture": "ΝΟΜΟΣ ΧΑΛΚΙΔΙΚΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "fIXlV",
+    "prefecture": "ΝΟΜΟΣ ΧΑΛΚΙΔΙΚΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "e9Qpw",
+    "prefecture": "ΝΟΜΟΣ ΧΑΝΙΩΝ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "nN7k0",
+    "prefecture": "ΝΟΜΟΣ ΧΑΝΙΩΝ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "Ez27C",
+    "prefecture": "ΝΟΜΟΣ ΧΑΝΙΩΝ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "Jljdf",
+    "prefecture": "ΝΟΜΟΣ ΧΑΝΙΩΝ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "R6ylh",
+    "prefecture": "ΝΟΜΟΣ ΚΟΖΑΝΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "eTuuV",
+    "prefecture": "ΝΟΜΟΣ ΚΟΖΑΝΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "7ea0c",
+    "prefecture": "ΝΟΜΟΣ ΚΟΖΑΝΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "sviQA",
+    "prefecture": "ΝΟΜΟΣ ΚΟΖΑΝΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "qGFf9",
+    "prefecture": "ΝΟΜΟΣ ΠΙΕΡΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "1CKic",
+    "prefecture": "ΝΟΜΟΣ ΠΙΕΡΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "pMYyV",
+    "prefecture": "ΝΟΜΟΣ ΠΙΕΡΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "yggLI",
+    "prefecture": "ΝΟΜΟΣ ΠΙΕΡΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "osxo9",
+    "prefecture": "ΝΟΜΟΣ ΚΙΛΚΙΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "lsUyo",
+    "prefecture": "ΝΟΜΟΣ ΚΙΛΚΙΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "jBlBy",
+    "prefecture": "ΝΟΜΟΣ ΚΙΛΚΙΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "jvBNp",
+    "prefecture": "ΝΟΜΟΣ ΚΙΛΚΙΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "PFGsj",
+    "prefecture": "ΝΟΜΟΣ ΧΙΟΥ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "BDMed",
+    "prefecture": "ΝΟΜΟΣ ΧΙΟΥ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "nOf0t",
+    "prefecture": "ΝΟΜΟΣ ΧΙΟΥ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "Rr1W4",
+    "prefecture": "ΝΟΜΟΣ ΧΙΟΥ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "ipK7Y",
+    "prefecture": "ΝΟΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "sjRvm",
+    "prefecture": "ΝΟΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "OPcph",
+    "prefecture": "ΝΟΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "8layr",
+    "prefecture": "ΝΟΜΟΣ ΚΕΡΚΥΡΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "fHIjt",
+    "prefecture": "ΝΟΜΟΣ ΑΙΤΩΛΙΑΣ ΚΑΙ ΑΚΑΡΝΑΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "VYNvM",
+    "prefecture": "ΝΟΜΟΣ ΑΙΤΩΛΙΑΣ ΚΑΙ ΑΚΑΡΝΑΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "xcBws",
+    "prefecture": "ΝΟΜΟΣ ΑΙΤΩΛΙΑΣ ΚΑΙ ΑΚΑΡΝΑΝΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "L4vCH",
+    "prefecture": "ΝΟΜΟΣ ΑΙΤΩΛΙΑΣ ΚΑΙ ΑΚΑΡΝΑΝΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "YOc3g",
+    "prefecture": "ΝΟΜΟΣ ΑΡΓΟΛΙΔΟΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "gdADj",
+    "prefecture": "ΝΟΜΟΣ ΑΡΓΟΛΙΔΟΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "N9u74",
+    "prefecture": "ΝΟΜΟΣ ΑΡΓΟΛΙΔΟΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "xq4m7",
+    "prefecture": "ΝΟΜΟΣ ΑΡΓΟΛΙΔΟΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "qFhby",
+    "prefecture": "ΝΟΜΟΣ ΑΡΚΑΔΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "oSDIX",
+    "prefecture": "ΝΟΜΟΣ ΑΡΚΑΔΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "Fzrx3",
+    "prefecture": "ΝΟΜΟΣ ΑΡΚΑΔΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "VvVsw",
+    "prefecture": "ΝΟΜΟΣ ΑΡΚΑΔΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "klMud",
+    "prefecture": "ΝΟΜΟΣ ΑΡΤΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "sgObh",
+    "prefecture": "ΝΟΜΟΣ ΑΡΤΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "nRSuo",
+    "prefecture": "ΝΟΜΟΣ ΑΡΤΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "PDj30",
+    "prefecture": "ΝΟΜΟΣ ΑΡΤΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "C5pgW",
+    "prefecture": "ΝΟΜΟΣ ΑΤΤΙΚΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "wrZoH",
+    "prefecture": "ΝΟΜΟΣ ΑΤΤΙΚΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "1MksR",
+    "prefecture": "ΝΟΜΟΣ ΑΤΤΙΚΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "ACL1f",
+    "prefecture": "ΝΟΜΟΣ ΑΤΤΙΚΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "6n4mG",
+    "prefecture": "ΝΟΜΟΣ ΑΧΑΪΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "0tRZv",
+    "prefecture": "ΝΟΜΟΣ ΑΧΑΪΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "RMDvT",
+    "prefecture": "ΝΟΜΟΣ ΑΧΑΪΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "ZxLRq",
+    "prefecture": "ΝΟΜΟΣ ΑΧΑΪΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "ZQZPA",
+    "prefecture": "ΝΟΜΟΣ ΒΟΙΩΤΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "rhvA9",
+    "prefecture": "ΝΟΜΟΣ ΒΟΙΩΤΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "NEnXK",
+    "prefecture": "ΝΟΜΟΣ ΒΟΙΩΤΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "xZ46U",
+    "prefecture": "ΝΟΜΟΣ ΒΟΙΩΤΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "vvbif",
+    "prefecture": "ΝΟΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "mDukF",
+    "prefecture": "ΝΟΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "afvPN",
+    "prefecture": "ΝΟΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "0Kp7L",
+    "prefecture": "ΝΟΜΟΣ ΓΡΕΒΕΝΩΝ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "ku1tF",
+    "prefecture": "ΝΟΜΟΣ ΔΡΑΜΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "79Sjm",
+    "prefecture": "ΝΟΜΟΣ ΔΡΑΜΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "3vxMB",
+    "prefecture": "ΝΟΜΟΣ ΔΡΑΜΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "87Sce",
+    "prefecture": "ΝΟΜΟΣ ΔΡΑΜΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "ZIdAb",
+    "prefecture": "ΝΟΜΟΣ ΔΩΔΕΚΑΝΗΣΟΥ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "XU0JO",
+    "prefecture": "ΝΟΜΟΣ ΔΩΔΕΚΑΝΗΣΟΥ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "TlZC5",
+    "prefecture": "ΝΟΜΟΣ ΔΩΔΕΚΑΝΗΣΟΥ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "1UQ4j",
+    "prefecture": "ΝΟΜΟΣ ΔΩΔΕΚΑΝΗΣΟΥ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "N4Zyj",
+    "prefecture": "ΝΟΜΟΣ ΕΒΡΟΥ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "YeOZz",
+    "prefecture": "ΝΟΜΟΣ ΕΒΡΟΥ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "04hIf",
+    "prefecture": "ΝΟΜΟΣ ΕΒΡΟΥ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "RFlkV",
+    "prefecture": "ΝΟΜΟΣ ΕΒΡΟΥ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "FCAWp",
+    "prefecture": "ΝΟΜΟΣ ΚΕΦΑΛΛΗΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "njK5F",
+    "prefecture": "ΝΟΜΟΣ ΚΕΦΑΛΛΗΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "botFL",
+    "prefecture": "ΝΟΜΟΣ ΚΕΦΑΛΛΗΝΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "mSSvm",
+    "prefecture": "ΝΟΜΟΣ ΚΕΦΑΛΛΗΝΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "YG8vM",
+    "prefecture": "ΝΟΜΟΣ ΕΥΡΥΤΑΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "IfCjF",
+    "prefecture": "ΝΟΜΟΣ ΕΥΡΥΤΑΝΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "BNvjx",
+    "prefecture": "ΝΟΜΟΣ ΕΥΡΥΤΑΝΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "iEYDk",
+    "prefecture": "ΝΟΜΟΣ ΕΥΡΥΤΑΝΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "jCkjc",
+    "prefecture": "ΝΟΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "VKBCL",
+    "prefecture": "ΝΟΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "lUyag",
+    "prefecture": "ΝΟΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "pRLkq",
+    "prefecture": "ΝΟΜΟΣ ΖΑΚΥΝΘΟΥ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "dY06C",
+    "prefecture": "ΝΟΜΟΣ ΗΛΕΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "xDROA",
+    "prefecture": "ΝΟΜΟΣ ΗΛΕΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "HYM7j",
+    "prefecture": "ΝΟΜΟΣ ΗΛΕΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "ayiUu",
+    "prefecture": "ΝΟΜΟΣ ΗΛΕΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "lofZk",
+    "prefecture": "ΝΟΜΟΣ ΗΜΑΘΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "zRyDI",
+    "prefecture": "ΝΟΜΟΣ ΗΜΑΘΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "FE4Az",
+    "prefecture": "ΝΟΜΟΣ ΗΜΑΘΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "I0hTQ",
+    "prefecture": "ΝΟΜΟΣ ΗΜΑΘΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "wbWSL",
+    "prefecture": "ΝΟΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "ck9is",
+    "prefecture": "ΝΟΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "gHrPq",
+    "prefecture": "ΝΟΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "9sek3",
+    "prefecture": "ΝΟΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "5RgQF",
+    "prefecture": "ΝΟΜΟΣ ΘΕΣΠΡΩΤΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "6X3P0",
+    "prefecture": "ΝΟΜΟΣ ΘΕΣΠΡΩΤΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "GbeEr",
+    "prefecture": "ΝΟΜΟΣ ΘΕΣΠΡΩΤΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "i6BZ9",
+    "prefecture": "ΝΟΜΟΣ ΘΕΣΠΡΩΤΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "2S7lj",
+    "prefecture": "ΝΟΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "upa0e",
+    "prefecture": "ΝΟΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "MJiCJ",
+    "prefecture": "ΝΟΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "8jTH2",
+    "prefecture": "ΝΟΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "z6gru",
+    "prefecture": "ΝΟΜΟΣ ΙΩΑΝΝΙΝΩΝ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "Ig6o3",
+    "prefecture": "ΝΟΜΟΣ ΙΩΑΝΝΙΝΩΝ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "mUPZX",
+    "prefecture": "ΝΟΜΟΣ ΙΩΑΝΝΙΝΩΝ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "VFQcI",
+    "prefecture": "ΝΟΜΟΣ ΙΩΑΝΝΙΝΩΝ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "LZkaD",
+    "prefecture": "ΝΟΜΟΣ ΚΑΒΑΛΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "V15TO",
+    "prefecture": "ΝΟΜΟΣ ΚΑΒΑΛΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "cRk8A",
+    "prefecture": "ΝΟΜΟΣ ΚΑΒΑΛΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "rBORp",
+    "prefecture": "ΝΟΜΟΣ ΚΑΒΑΛΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "9zNAw",
+    "prefecture": "ΝΟΜΟΣ ΚΑΡΔΙΤΣΗΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "kmaP2",
+    "prefecture": "ΝΟΜΟΣ ΚΑΡΔΙΤΣΗΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "OhLQo",
+    "prefecture": "ΝΟΜΟΣ ΚΑΡΔΙΤΣΗΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "FXxES",
+    "prefecture": "ΝΟΜΟΣ ΚΑΡΔΙΤΣΗΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "ZXEST",
+    "prefecture": "ΝΟΜΟΣ ΚΑΣΤΟΡΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "JsqfC",
+    "prefecture": "ΝΟΜΟΣ ΚΑΣΤΟΡΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "1z96x",
+    "prefecture": "ΝΟΜΟΣ ΚΑΣΤΟΡΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "KxLYT",
+    "prefecture": "ΝΟΜΟΣ ΚΑΣΤΟΡΙΑΣ",
+    "fuel_type": "Autogas"
+  },
+  {
+    "chart_id": "yBunF",
+    "prefecture": "ΝΟΜΟΣ ΕΥΒΟΙΑΣ",
+    "fuel_type": "Αμόλυβδη 95"
+  },
+  {
+    "chart_id": "GFmpf",
+    "prefecture": "ΝΟΜΟΣ ΕΥΒΟΙΑΣ",
+    "fuel_type": "Αμόλυβδη 100"
+  },
+  {
+    "chart_id": "LJJQ0",
+    "prefecture": "ΝΟΜΟΣ ΕΥΒΟΙΑΣ",
+    "fuel_type": "Diesel Κίνησης"
+  },
+  {
+    "chart_id": "S0Wcp",
+    "prefecture": "ΝΟΜΟΣ ΕΥΒΟΙΑΣ",
+    "fuel_type": "Autogas"
+  }
+]
