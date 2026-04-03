@@ -76,13 +76,16 @@ def extract_data_from_pdf(pdf_path):
 # -----------------------------
 if __name__ == "__main__":
 
-    master_csv = "national/prices_of_petrol.csv"
+    old_csv = "national/prices_of_petrol_old.csv"
+    new_csv = "national/prices_of_petrol.csv"
 
-    # Load CSV or create empty
-    if os.path.exists(master_csv):
-        master_df = pd.read_csv(master_csv)
+    # Load old CSV or create empty dataframe
+    if os.path.exists(old_csv):
+        master_df = pd.read_csv(old_csv)
+        print(f"Loaded old CSV with {len(master_df)} rows")
     else:
         master_df = pd.DataFrame(columns=["date"] + list(FUEL_MAP.values()))
+        print("No old CSV found, starting fresh")
 
     # Normalize existing dates
     master_df["date"] = pd.to_datetime(master_df["date"], errors="coerce", dayfirst=True)
@@ -94,7 +97,7 @@ if __name__ == "__main__":
     # Get all PDFs
     pdfs = [f for f in os.listdir(PDF_FOLDER) if f.endswith(".pdf")]
 
-    # Sort oldest → newest (important)
+    # Sort PDFs oldest → newest
     pdfs.sort(key=lambda f: extract_date(f))
 
     new_rows = []
@@ -106,37 +109,36 @@ if __name__ == "__main__":
 
         formatted_date = pdf_date.strftime("%d-%m-%y")
 
-        # Skip if already exists
+        # Skip if this date is already in master
         if formatted_date in existing_dates:
             continue
 
         print(f"Processing {pdf_file}")
-
         pdf_path = os.path.join(PDF_FOLDER, pdf_file)
         df = extract_data_from_pdf(pdf_path)
 
         if df is not None:
+            # Normalize the date in new data
             df["date"] = pd.to_datetime(df["date"], format="%d/%m/%y", errors="coerce")
             df["date"] = df["date"].dt.strftime("%d-%m-%y")
-
             new_rows.append(df)
 
-    # Append all new rows at once
+    # Concatenate new rows with old data
     if new_rows:
         new_data_df = pd.concat(new_rows, ignore_index=True)
         master_df = pd.concat([master_df, new_data_df], ignore_index=True)
         print(f"Added {len(new_rows)} new rows")
     else:
-        print("No new data found")
+        print("No new PDF data found")
 
     # Ensure column order
     master_df = master_df[["date", "diesel_driving", "unleaded_100", "unleaded_95", "autogas"]]
-    #Sort by date
+
+    # Sort by date
     master_df["date"] = pd.to_datetime(master_df["date"], format="%d-%m-%y", errors="coerce")
     master_df = master_df.sort_values("date").reset_index(drop=True)
     master_df["date"] = master_df["date"].dt.strftime("%d-%m-%y")
 
-    # Save CSV
-    master_df.to_csv(master_csv, index=False)
-
-    print(f"Updated {master_csv}")
+    # Save final CSV
+    master_df.to_csv(new_csv, index=False)
+    print(f"Updated CSV saved to {new_csv} with {len(master_df)} total rows")
