@@ -8,7 +8,7 @@ import re
 # -----------------------------
 # Paths
 # -----------------------------
-PDF_FOLDER = "pdf_files"
+PDF_FOLDER = "national/pdf_files"
 exclude_keywords = ["Ταχ.", "Τηλέφωνο", "Fax"]
 
 FUEL_MAP = {
@@ -76,7 +76,7 @@ def extract_data_from_pdf(pdf_path):
 # -----------------------------
 if __name__ == "__main__":
 
-    master_csv = "prices_of_petrol.csv"
+    master_csv = "national/prices_of_petrol.csv"
 
     # Load CSV or create empty
     if os.path.exists(master_csv):
